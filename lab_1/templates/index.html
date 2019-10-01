@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="rus">
+<head>
+    <meta charset="UTF-8">
+    <title>Page html</title>
+</head>
+<body>
+    <p>URL: {{data.url}}</p>
+    <p>Дата создания: {{data.creationDate}}</p>
+    <p>Заголовки:</p>
+    <ul>
+        {% for i in data['articles'] %}
+            <li>{{ i.title }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

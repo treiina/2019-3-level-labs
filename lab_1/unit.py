@@ -15,7 +15,7 @@ class Test_html(unittest.TestCase):
         self.assertEqual(dict_keys,keys)
         self.assertIsNone(json_dict.get('title'))
 
-    def get_titles(self):
+    def test_get_titles(self):
         articles = htmlCrawler.find_articles('SavedHtml.html')#возвращается список articles
         json_file = htmlCrawler.publish_report('SavedHtml.html')
 
@@ -27,7 +27,7 @@ class Test_html(unittest.TestCase):
     
 
 
-    def get_html_page(self):
+    def test_get_html_page(self):
         f = open("articles.json", encoding='UTF-8')
         json_str = f.read()
         f.close()

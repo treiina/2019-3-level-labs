@@ -16,14 +16,15 @@ class Test_html(unittest.TestCase):
         self.assertIsNone(json_dict.get('title'))
 
     def test_get_titles(self):
-        articles = htmlCrawler.find_articles('SavedHtml.html')#возвращается список articles
-        json_file = htmlCrawler.publish_report('SavedHtml.html')
-
-        json_str = json_file.read()
-        json_file.close()
+        page=htmlCrawler.get_html_page('https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru')
+        articles = htmlCrawler.find_articles(page)#возвращается список articles
+        htmlCrawler.publish_report('https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru')
+        f = open("articles.json", encoding='UTF-8')
+        json_str = f.read()
+        f.close()
         json_dict = json.loads(json_str)
-        for i in range(len(json_dict["articles"])):
-            self.assertEqual(json_dict["articles"][i]["title"], articles[i])
+        for title in json_dict["articles"]:
+         self.assertEqual(json_dict["articles"], articles)
     
 
 

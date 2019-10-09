@@ -8,12 +8,10 @@ import json
 def get_html_page(url):
     url_request = requests.get(url)
     html_page = url_request.text
-    if url_request.status_code == 200:
-        print("Yay! We performed a successful request!")
-        return html_page
-    else:
-        print("Oops.. Something went wrong")
-        return []
+
+    return html_page
+
+
 
 
 def find_articles(html_page):

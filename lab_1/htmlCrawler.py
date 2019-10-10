@@ -30,5 +30,5 @@ def publish_report(url):
     raw_json_dict = {"url": url, "creationDate": creation_date, "articles": articles}
     formed_json_doc = json.dumps(raw_json_dict, indent=4, ensure_ascii=False)
 
-    with open("articles.json", "w", encoding="utf-8") as file:
+    with open("../articles.json", "w", encoding="utf-8") as file:
         file.write(formed_json_doc)

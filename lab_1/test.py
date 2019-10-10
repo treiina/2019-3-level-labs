@@ -6,7 +6,7 @@ import requests
 class Test_html(unittest.TestCase):
 
     def test_structure_url_2(self):
-        f = open("C:/Users/Катя/PycharmProjects/2019-3-level-labs/articles.json", encoding='UTF-8')
+        f = open("articles.json", encoding='UTF-8')
         json_str = f.read()
         f.close()
         json_dict = json.loads(json_str)
@@ -234,7 +234,7 @@ class Test_html(unittest.TestCase):
       
 
     def test_get_html_page(self):
-        f = open("C:/Users/Катя/PycharmProjects/2019-3-level-labs/articles.json", encoding='UTF-8')
+        f = open("articles.json", encoding='UTF-8')
         json_str = f.read()
         f.close()
         json_dict = json.loads(json_str)

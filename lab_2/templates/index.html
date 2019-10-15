@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="rus">
+<head>
+    <meta charset="UTF-8">
+    <title>Google news - Business</title>
+    <style>
+    P {
+    font-size: 120%;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: #333366;
+    }
+    </style>
+</head>
+<body>
+    <p>URL: {{data.url}}</p>
+    <p>Дата создания: {{data.creationDate}}</p>
+    <p>Заголовки:</p>
+    <ol>
+        {% for i in data['articles'] %}
+        <li><a href={{ i.url }}>{{ i.title }}</a></li>
+        {% endfor %}
+    </ol>
+<form action="/" >
+    <button name="refresh" type="submit">Обновить</button>
+  </form>
+</body>
+</html>

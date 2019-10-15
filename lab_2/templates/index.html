@@ -20,7 +20,7 @@
         <li><a href={{ i.url }}>{{ i.title }}</a></li>
         {% endfor %}
     </ol>
-<form action="/" >
+<form method="post", action="/refresh" >
     <button name="refresh" type="submit">Обновить</button>
   </form>
 </body>

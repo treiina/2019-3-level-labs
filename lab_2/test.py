@@ -1,13 +1,13 @@
 import unittest
 import json
 import htmlCrawler
-import requests
+
 
 class Test_html(unittest.TestCase):
 
     def setup(self):
         htmlCrawler.publish_report("https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru")
-        f = open("C:/Users/Катя/PycharmProjects/2019-3-level-labs/articles.json", encoding='UTF-8')
+        f = open("../articles.json", encoding='UTF-8')
         json_str = f.read()
         f.close()
         json_dict = json.loads(json_str)
@@ -23,17 +23,17 @@ class Test_html(unittest.TestCase):
         json_dict = json.loads(json_str)'''
         json_dict = self.setup()
         dict_keys = list(json_dict.keys())
-        keys=['url','creationDate','articles']
-        self.assertEqual(dict_keys,keys)
-        for i in range (len(json_dict['articles'])):
-         self.assertIsNotNone(json_dict['articles'][i]['title'])
+        keys=['url', 'creationDate', 'articles']
+        self.assertEqual(dict_keys, keys)
+        for i in range(len(json_dict['articles'])):
+            self.assertIsNotNone(json_dict['articles'][i]['title'])
 
     def test_get_titles(self):
-        page= open("SavedHtml.html", "r", encoding="UTF-8")
+        page = open("SavedHtml.html", "r", encoding="UTF-8")
         page_content = page.read()
         page.close()
         articles = htmlCrawler.find_articles(page_content)
-        self.assertListEqual(articles, [ {
+        self.assertListEqual(articles, [{
             "title": "Майкл Най, Titan Ventures: «Bitcoin ниже $8000 — я покупаю"
         },
         {
@@ -257,8 +257,8 @@ class Test_html(unittest.TestCase):
         url_request=htmlCrawler.get_request(json_dict['url'])
         self.assertEqual(url_request.status_code, 200)
         url_request = htmlCrawler.get_request('123')
-        self.assertEqual(url_request.status_code,404)
+        self.assertEqual(url_request.status_code, 404)
 
 
-if __name__== '__main__':
+if __name__ == '__main__':
     unittest.main()

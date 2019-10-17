@@ -23,5 +23,22 @@ def refresh():
     return redirect(url_for('open_html_page'))
 
 
+@app.route("/other", methods=['POST'])
+def open_other_page(url="https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"):
+    htmlCrawler.publish_report(url)
+    f = open("../articles.json", encoding='UTF-8')
+    json_str = f.read()
+    f.close()
+    json_dict = json.loads(json_str)
+    arr = []
+    for i in range(int(json_dict['creationSec'])+1):
+        arr.append(i)
+    return render_template("otherPage.html", data=arr)
+
+
+#Вторая кнопка, чтобы по нажатию происходил переход на другую страницу и на этой странице будет другой шаблон
+#Любая страница, массив чисел (сгенерированный)
+#Цифры от текущего количества секунд
+
 if __name__ == "__main__":
     app.run()

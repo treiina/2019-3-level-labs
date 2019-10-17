@@ -1,5 +1,6 @@
 {
     "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru",
+<<<<<<< HEAD
     "creationDate": "2019-10-16",
     "articles": [
         {
@@ -280,6 +281,289 @@
         },
         {
             "title": "Foxconn спасает американский проект новыми идеями: к заводу добавят ЦОД и Дом из стекла",
+=======
+    "creationDate": "2019-10-17",
+    "creationSec": 52,
+    "articles": [
+        {
+            "title": "Минтранс рассказал о планах развивать беспилотное метро",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Volvo XC40 Recharge: первый электромобиль марки",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Ежедневный объем торгов Bitcoin-фьючерсами на Binance составил $700 млн",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "\"Русский Прадо\" от УАЗа: новые подробности",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Биржа Binance сожгла $36,7 млн в токенах BNB",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Новая Skoda Octavia: еще немного о дизайне",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Китайский Haval запустил российское производство соперника Renault Arkana",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "BMW представила седан 2-Series Gran Coupe",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Alexion совершит поглощение на $930 млн. Почему это важно для акций",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Россияне лишатся культового внедорожника Mitsubishi",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "От глюкометров до детского питания. На чем Abbott заработала $8 млрд",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "На голову выше конкурентов: Чего ожидать от яркой новинки сезона – Audi Q3 Sportback 2020",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Интуиция или анализ? Инвесторы рассказали, какой подход работает лучше",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Микротойота пойдет в серию (фото) - Авто Mail.ru",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Опубликованы первые фото Nissan X-Trail нового поколения",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Toyota Yaris сменил поколение: первенец новой тележки, гибрид стал мощнее, версии – богаче - КОЛЕСА.ру – автомобильный журнал",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Профессиональный гонщик протестировал LADA Vesta Sport",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "6 миллионов рублей на льду: Обзорщик устроил тест-драйв особого Toyota Land Cruiser 200 Black Edition",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Обновленный Genesis G70 украсили карбоном",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Ликвидация склада кроссоверов в \"ДО-КАР\" с выгодой до 310 000 рублей",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Полиция Монголии пересела на Lada 4x4",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Wilshire Phoenix обновила заявку на запуск биткоин-ETF",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "«Не мучайте молодых мамаш»: LADA Granta Drive Active провалила «семейный» тест-драйв",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Эксперты центробанков предсказали доллару 25 лет «безраздельной власти»",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "«А что, так можно было?» Скрещенная с трактором «Буханка-монстр» восхитила сеть",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "«Чтоб валила»: В сети обсудили, как убрать «провалы» и вибрации на LADA Granta FL",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "«Воронеж, ты сошёл с ума?»: Сеть удивили выставленные на продажу «Запорожцы»",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Александр Бортников, ФСБ: анонимные криптовалюты — инструмент террористов",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Harley-Davidson приостановил производство своего первого электромотоцикла вскоре после начала продаж",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Сбербанк и Microsoft «очеловечат» искусственный интеллект",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Почему Skoda Kodiaq, а не Superb? Блогер рассказал о сложностях покупки нового авто",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Зачем автомобилю квадракоптер",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "«Выкидыш Рено для стран третьего мира»: Откровенный «разнос» устроил для Renault Arkana эксперт",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Дайджест дня: будущая Honda Jazz, завершение льготных госпрограмм и другие события индустрии",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Обновленный Lexus RX в Новосибирске 16 октября 2019",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Конкуренты Маска пытаются догнать Tesla. Есть ли у них шанс?: Движение: Ценности",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Новый Volkswagen Golf: как будет выглядеть автомобиль - Авто Mail.ru",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Новый Toyota RAV4 сменил имя на Wildlander",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Не призрачный доход. Как заработать на стейблкоинах",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "В гамме Kia может появиться компактный кроссовер дешевле Seltos - КОЛЕСА.ру – автомобильный журнал",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "В сети биткоина прошла транзакция более чем на $900 млн. Комиссия составила менее $4",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "18-миллионный Bitcoin будет добыт на этой неделе",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Nasdaq добавила индекс на основе 100 криптовалют",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Стоимость XRP достигла трехнедельного максимума. Будет ли новый рекорд",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Последняя настоящая \"Волга\", которая была не хуже \"Мерседеса\"",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "На продажу выставили редкий дизельный ВАЗ-2104",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Появились изображения похожего на катафалк нового Lada Largus",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Евро обновил месячный максимум на фоне слабых данных по США",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Механика или DSG – Какой Skoda Kodiaq лучше купить?",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Криптобиржа Coinsbit платит $200 в токенах CNB за регистрацию по реферальной ссылке",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Швеция выпустит свою криптовалюту",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Один из старших акционеров Berkshire раскритиковал Баффета и продал долю в компании",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "CoinShares и Blockchain запускают золотой токен на основе биткоина",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Износ флеш-памяти убивает старые электромобили Tesla",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Видео: рекорд Volkswagen на трассе с 99 поворотами показали из кабины",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "SEO-эксперимент: влияет ли атрибут ссылок UGC на ранжирование страниц в Google",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "«Fyodor is the Steve Jobs of pizza»: на Bloomberg вышла статья об основателе «Додо Пиццы»",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Руки вверх! Тест-драйв новой Volvo S60",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Maybach, Maserati, Rolls-Royce: на чем ездят самые богатые россияне",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Mazda выпустила тизер серийного электромобиля",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Обновленный седан Hyundai Solaris 2020 добрался до Китая",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Как вдребезги разбивают Теслы в секретной лаборатории (видео) - Авто Mail.ru",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Peugeot построила электробайк с запасом хода больше чем у электрокаров",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Ripple заключил партнерство с финтех-компанией Finastra",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "CoinMarketCap добавил список процентных ставок по криптовалютным депозитам",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Автопилот Tesla помог владельцу избежать столкновения с семейством медведей в США",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Шеф-стилист BMW объяснил, зачем нужны гигантские \"ноздри\". Они приносят деньги!",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "CAR.RU — Новая версия Renault Captur добралась до дилеров",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "Представлен настоящий мужской внедорожник (видео) - Авто Mail.ru",
+            "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
+        },
+        {
+            "title": "EOS обновила механизм управления блокчейном. Как это повлияет на курс",
+>>>>>>> 222c30453562a7dc746f092e383afb1142d54e82
             "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"
         }
     ]

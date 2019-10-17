@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 backcall==0.1.0
 bleach==3.1.0
 Click==7.0
@@ -57,3 +58,20 @@ wcwidth==0.1.7
 webencodings==0.5.1
 widgetsnbextension==3.4.2
 xlrd==1.2.0
+=======
+beautifulsoup4==4.8.1
+bs4==0.0.1
+certifi==2019.9.11
+chardet==3.0.4
+Click==7.0
+Flask==1.1.1
+gunicorn==19.9.0
+idna==2.8
+itsdangerous==1.1.0
+Jinja2==2.10.3
+MarkupSafe==1.1.1
+requests==2.22.0
+soupsieve==1.9.4
+urllib3==1.25.6
+Werkzeug==0.16.0
+>>>>>>> 222c30453562a7dc746f092e383afb1142d54e82

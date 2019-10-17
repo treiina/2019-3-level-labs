@@ -7,9 +7,8 @@ import json
 
 def get_request(url):
     url_request = requests.get(url)
-    if url_request==200:
-     return url_request
-
+    if url_request == 200:
+        return url_request
 
 
 def get_html_page(url):
@@ -30,9 +29,10 @@ def find_articles(html_page):
 
 def publish_report(url):
     creation_date = datetime.datetime.today().strftime("%Y-%m-%d")
+    creation_sec = datetime.datetime.today().second
     articles = find_articles(get_html_page(url))
-    raw_json_dict = {"url": url, "creationDate": creation_date, "articles": articles}
+    raw_json_dict = {"url": url, "creationDate": creation_date, "creationSec": creation_sec, "articles": articles}
     formed_json_doc = json.dumps(raw_json_dict, indent=4, ensure_ascii=False)
 
-    with open("C:/Users/Катя/PycharmProjects/2019-3-level-labs/articles.json", "w", encoding="utf-8") as file:
+    with open("../articles.json", "w", encoding="utf-8") as file:
         file.write(formed_json_doc)

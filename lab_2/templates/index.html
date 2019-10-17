@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <title>Google news - Business</title>
     <style>
-    P {
-    font-size: 120%;
-    font-family: Verdana, Arial, Helvetica, sans-serif;
-    color: #333366;
+    p{
+        font-size: 120%;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        color: #333366;
     }
     </style>
 </head>
@@ -20,8 +20,11 @@
         <li><a href={{ i.url }}>{{ i.title }}</a></li>
         {% endfor %}
     </ol>
-<form method="post", action="/refresh" >
-    <button name="refresh" type="submit">Обновить</button>
-  </form>
+    <form method="post", action="/refresh" >
+        <button name="refresh" type="submit">Обновить</button>
+    </form>
+    <form method="post", action="/other" >
+        <button name="array" type="submit">Массив</button>
+    </form>
 </body>
 </html>

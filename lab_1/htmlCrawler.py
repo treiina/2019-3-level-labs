@@ -5,13 +5,18 @@ from bs4 import BeautifulSoup
 import json
 
 
+def get_request(url):
+    url_request = requests.get(url)
+    if url_request==200:
+     return url_request
+    else:
+        return null
+
+
 def get_html_page(url):
     url_request = requests.get(url)
     html_page = url_request.text
-
     return html_page
-
-
 
 
 def find_articles(html_page):
@@ -20,7 +25,7 @@ def find_articles(html_page):
 
     articles = []
     for i in range(len(raw_articles)):
-        articles.append({"title": raw_articles[i].text})
+        articles.append({"title": raw_articles[i].text, "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU%3Aru"})
     return articles
 
 
